@@ -1,5 +1,5 @@
 {
-  description = "My personal NUR repository";
+  description = "AkechiShiro's NUR repository";
   inputs.nixpkgs.url = "github:NixOS/nixpkgs/nixpkgs-unstable";
   inputs.flake-compat = {
     url = "github:NixOS/flake-compat";
